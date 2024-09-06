@@ -1,5 +1,10 @@
 streamlit
-torch
+torch 
 diffusers
 huggingface-hub
 transformers
+Pillow
+requests
+sentence-transformers
+sentencepiece
+IPython
