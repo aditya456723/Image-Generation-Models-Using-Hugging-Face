@@ -95,7 +95,7 @@ def run_model_4(prompt):
 st.title("Image Generation Models Runner")
 
 # Input field for prompt
-prompt = st.text_input("Enter your prompt:", "A cat holding a sign that says hello world")
+prompt = st.text_input("Enter your prompt:", "")
 
 # Input field for Hugging Face token (kept secret from display)
 token = st.text_input("Enter your Hugging Face token:", type="password")
