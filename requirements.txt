@@ -1,0 +1,5 @@
+streamlit
+torch
+diffusers
+huggingface-hub
+transformers
